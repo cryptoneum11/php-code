@@ -1,0 +1,22 @@
+{
+    "Waka":{
+	    "Name": "Wakka Flocka Flame",
+	    "Occupation": "Shitty Rapper",
+	    "Hobby": "WuTang"
+    },
+    "Greg":{
+	    "Name": "Gregory Stevens",
+	    "Occupation": "White Collar Worker",
+	    "Hobby": "Listens to Rap"
+    },
+    "BB":{
+        "Name": "Bing Bong",
+        "Occupation": "Smushy Mushy Manufacturer",
+        "Hobby": "Collecting"
+    },
+    "Tiff":{
+        "Name": "Tiffany",
+        "Occupation": "Video Game Mascot",
+        "Hobby": "Dancing"
+    }
+}
