@@ -1,8 +1,8 @@
 <?php
 
-namespace \Test\Tester;
+namespace Test\Tester\Testing;
 
-include 'index.php';
+include 'hello2/say_hello.php';
 
 
 say_hello();
