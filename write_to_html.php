@@ -1,5 +1,8 @@
 <?php
 
+# use with command line curl. use with a file or can type the JSON data inline
+# curl -X POST -H 'content-type:application/json' -d @json.txt http://localhost/php-code/write_to_html.php
+
 if( $json = file_get_contents('php://input') ) {
     $indexes = json_decode($json, true);
 
